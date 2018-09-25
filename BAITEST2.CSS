@@ -1,0 +1,113 @@
+.BOX{
+	width: 1000px;
+	height: 300px;
+	background: #333366;
+	margin: 0 auto;
+}
+.BOX .box{
+	width: 220px;
+	height: 251px;
+	float: left;
+	background: #333366;
+}
+.BOX .box p{
+    width: 220px;
+    height: 20px;
+    float: left;
+    margin: 0;
+    font-family: arial;
+    font-size: 11px;
+    color: #ccc;
+    margin-bottom: -2px;
+}
+.BOX .box .line {
+	width: 180px;
+	height: 1px;
+	float: left;
+	background: #ccc;
+}
+.BOX .box h2{
+	font-size: 20px;
+	width: 220px;
+	 height: 50px; 
+	 float: left; 
+	 margin: 0px;    
+	 line-height: 70px;
+	 color: #cc9966;
+	 font-family: monospace;
+}
+.BOX .box h5{
+	width: 220px;
+	height: 20px;
+	float: left;
+	margin-top: 7px;
+	font-family: arial;
+}
+.BOX .box .hinhvuong{
+	margin-top: -23px;
+	width:220px;
+	height: 30px;
+	float: left;
+	background: #fff;
+	border-radius: 4px;
+
+}
+.BOX .box h4{
+    width: 100px;
+    margin-top: 13px;
+    height: 30px;
+    float: right;
+    background: #3399cc;
+    text-align: center;
+    line-height: 30px;
+   	border-radius: 4px;
+}
+.BOX .box h4 a{
+	text-decoration: none;
+	font-family: arial;
+	color: #ccc;
+}
+.BOX .box img{
+	margin-left: 15px;
+	margin-top: 10px;
+	width: 50px;
+	height: 50px;
+	float: left;
+
+}
+.BOX .box .icon img{
+	margin-top: 20px;
+	width: 30px;
+	height: 30px;
+	float: left;
+	clear: left;
+	margin-left: 23px;
+
+}
+.BOX .box .sdt {
+    margin-top: -80px;
+    float: right;
+    width: 150px;
+    height: 32px;
+    margin-right: 12px;
+
+}
+.BOX .box .sdt p{
+	width: 150px;
+	height: 15px;
+	float: left;
+	font-family: arial;
+	margin-top: 3px;
+	font-size: 8px;
+}
+.BOX .bootop{
+	width: 1000px;
+	height: 50px;
+	float: left;
+	background: #ccc;
+}
+.BOX .bootop h4{
+	float: left;
+	font-size: 13px;
+	font-family: arial;
+}
