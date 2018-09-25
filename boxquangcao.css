@@ -1,0 +1,65 @@
+.boxqc{
+	width: 1000px;
+	height: 300px;
+	margin: 0;
+	float: left;
+	background: #eaeff7;
+}
+h1.what{
+	float: left;
+	margin: 0;
+	font-size: 30px;
+	font-family: arial;
+	text-transform: uppercase;
+	color: #1663e2;
+	width: 100%;
+	height:18%;
+	line-height: 90px;
+	text-align: center;
+}
+h1.lorem{
+	margin-top: 20px;
+	float: left;
+	margin-left: 15%;
+	font-size: 12px;
+	font-family: arial;
+	width: 70%;
+	height:15%;
+	text-align: center;
+	font-weight: 400;
+}
+.boxnd{
+	float: left;
+	margin-left: 60px;
+	width: 18%;
+	height:31%;
+}
+h1.de{
+	margin-bottom: 10px;
+	color: #1663e2;
+	float: left;
+	font-size: 18px;
+	font-family: arial;
+	text-transform: capitalize;
+
+}
+p.nd{
+	margin: 0;
+	float: left;
+	font-size: 11px;
+	font-family: arial;
+}
+a.nd{
+	margin-top: 12px;
+	float: right;
+	width: 40%;
+	height:27%;
+	background: #1663e2;
+	text-align: center;
+	line-height: 25px;
+	text-decoration: none;
+	font-weight: 500;
+	color: white;
+	font-family: arial;
+	border-radius: 5px;
+}
