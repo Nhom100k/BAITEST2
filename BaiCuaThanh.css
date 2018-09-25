@@ -263,3 +263,50 @@ a.nd{
 	font-family: arial;
 	border-radius: 5px;
 }
+.boxthongtin{
+	margin: 0 auto;
+	width: 1000px;
+	height: 200px;
+	background: white;
+}
+.boxthongtin .box1{
+	float: left;
+	margin: 0 auto;
+	width: 25%;
+	height: 100%;
+	background: white;
+	
+} 
+.boxthongtin .box1 .tron{
+	margin-top: 10px;
+	margin-left: 90px;
+	width: 70px;
+	height: 70px;
+	border-radius: 70px;
+	
+    background: blue;
+    opacity: 0.7;
+}
+.boxthongtin .box1 .tron img{
+	    padding: 14px 16px;
+    width: 40px;
+    height: 40px;
+}
+.boxthongtin .box1 h3{
+   margin: 0;
+    font-size: 15px;
+   
+    width: 100%;
+    height: 15px;
+    color: black;
+    text-align: center;
+    padding-top: 8px;
+	
+}
+.boxthongtin .box1 p{
+	    color: black;
+    display: block;
+    padding: 0px 64px;
+    font-size: 11px;
+
+}
