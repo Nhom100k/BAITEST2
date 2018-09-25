@@ -54,33 +54,90 @@
 }
 .BilRight ul
 {	
+	float: left;
+	margin: 0px 0px 0px -10px;
+	width: 96%;
+	height: 100px;
 	list-style-type: none;
 	background: #1e1a17;
 	text-align: center;
 
 }
-.BilRight ul li
+.BilRight  li
 {
+	float: left;
+	margin-left: 7px;
 	color: red;
 	
 	width: 	76px;
 	height: 10px;
-	line-height: 60px;
+	line-height: 90px;
 	
 	display: inline-table;
 	color: #ffff;
 	text-decoration: none;
 	font-size: 14px;
 }
-.BilRight ul li a
+.BilRight a
 {	
 	color: #ffff;
 	display: block;
 	text-decoration: none;
 }
-a:hover
-{
-	background: yellow;
-	width: 100%;
+
+
+
+
+.boxanh{
+	clear: both;
+	width: 1000px;
+	height: 400px;
+	background: url(https://znews-photo-td.zadn.vn/w1024/Uploaded/jaroin/2016_08_04/26933290224_ed705e64b4_k.jpg);
+}
+.boxanh img {
+	float: left;
+	width: 200px;
+	height: 150px;
+	margin: 125px 0px 125px 0px;
+	opacity: 0.5;
+}
+.boxanh .bilm{
+	float: left;
+	width: 600px;
 	height: 100%;
+}
+.bilm h1 {
+	float: left;
+	width: 100%;
+	height: 50px;
+	text-align: center;
+	font-size: 40px;
+	text-transform: capitalize;
+	padding-bottom: 30px;
+}
+.bilm p {
+	float: left;
+	margin: 0;
+	margin-top: -40px;
+	font-size: 24px;
+	text-align: center;
+	text-transform: capitalize;
+}
+.bilm a.a1 {
+	float: left;
+	width: 50%;
+	height: 50px;
+	margin: 47px 25% 0px 25%;
+	border-radius: 20px;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 50px;
+	font-size: 24px;
+	background: orange;
+	color: white;
+	text-decoration: none;
+}
+.bilm a.a1:hover{
+	color: red;
+	background: white;
 }
